@@ -1,6 +1,8 @@
 package # hide from PAUSE
 	Visitor;
 
+use strict;
+
 =encoding utf8
 
 =head1 NAME

@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 
+use strict;
 use Netscape::Bookmarks;
 use HTTP::SimpleLinkChecker;
 

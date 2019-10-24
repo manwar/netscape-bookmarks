@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 
+use strict;
 use Netscape::Bookmarks;
 
 my $netscape = Netscape::Bookmarks->new( "bookmark_files/Bookmarks.html" );
